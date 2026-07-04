@@ -314,6 +314,9 @@ function Projects(){
           <div className="proj-links">
             <a className="btn btn-ghost" href={p.href} target="_blank" rel="noopener noreferrer">View repository →</a>
           </div>
+          <div className="proj-links">
+            <a className="btn btn-ghost" href={p.href2} target="_blank" rel="noopener noreferrer">View Live Demo →</a>
+          </div>
         </div>
       </div>
     </section>
