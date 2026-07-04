@@ -268,6 +268,7 @@ function Projects(){
       ],
       tags: ['React.js','Node.js','Express.js','MongoDB','JWT'],
       href: 'https://github.com/mshreyansh711-ui',
+      href2: 'https://shop-now-mern.vercel.app/',
     },
     {
       file: 'RealTimeApp.jsx',
