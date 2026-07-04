@@ -267,6 +267,7 @@ function Projects(){
         'Developed the shopping cart, order processing flow, and a responsive UI across devices.',
       ],
       tags: ['React.js','Node.js','Express.js','MongoDB','JWT'],
+      <a href="https://shop-now-a340.onrender.com" target="_blank">Live Demo</a>
       href: 'https://github.com/mshreyansh711-ui',
     },
     {
