@@ -350,7 +350,7 @@ function Education(){
             <span className="log-label">Certification</span>
             <span className="log-val">Internship Offer Letter</span>
             <a
-              href="/documents/offer-letters.pdf"
+              href="/offer-letters.pdf"
               target="_blank"
               rel="noopener noreferrer"
               className="doc-btn"
