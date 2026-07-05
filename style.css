@@ -364,6 +364,21 @@
     font-size:13.5px;
     align-items:baseline;
   }
+  .doc-btn{
+    margin-left:auto;
+    padding:8px 16px;
+    background:#00d9a3;
+    color:#111;
+    text-decoration:none;
+    border-radius:6px;
+    font-size:14px;
+    font-weight:600;
+    transition:.3s;
+}
+
+.doc-btn:hover{
+    background:#00b989;
+}
   .log-line:last-child{border-bottom:none;}
   .log-line .arrow{color:var(--green);}
   .log-line .log-label{color:var(--text-faint);min-width:90px;}
