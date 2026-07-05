@@ -347,23 +347,42 @@ function Education(){
           </div>
           <div className="log-line">
             <span className="arrow">&gt;</span>
-            <span className="log-label">cert</span>
-            <span className="log-val">Full Stack Web Development</span>
+            <span className="log-label">Certification</span>
+            <span className="log-val">Internship Offer Letter</span>
+            <a
+              href="/documents/offer-letters.pdf"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="doc-btn"
+            >
+              View PDF
+            </a>
           </div>
           <div className="log-line">
             <span className="arrow">&gt;</span>
-            <span className="log-label">cert</span>
-            <span className="log-val">React.js</span>
+            <span className="log-label">cer</span>
+            <span className="log-val">React and Next express</span>
+            <a
+              href="/documents/internship-certificate.pdf"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="doc-btn"
+            >
+              View Certificate
+            </a>
           </div>
           <div className="log-line">
             <span className="arrow">&gt;</span>
-            <span className="log-label">cert</span>
-            <span className="log-val">Node.js &amp; Express.js</span>
-          </div>
-          <div className="log-line">
-            <span className="arrow">&gt;</span>
-            <span className="log-label">cert</span>
-            <span className="log-val">MongoDB</span>
+            <span className="log-label">Cer</span>
+            <span className="log-val">Node and Mongo Db</span>
+            <a
+              href="/documents/lor.pdf"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="doc-btn"
+            >
+              View Certificate
+            </a>
           </div>
         </div>
       </div>
