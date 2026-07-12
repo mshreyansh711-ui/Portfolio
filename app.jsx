@@ -376,7 +376,7 @@ function Education(){
             <span className="log-label">Cer</span>
             <span className="log-val">Node and Mongo Db</span>
             <a
-              href="/documents/certificate.pdf"
+              href="/certificate.pdf"
               target="_blank"
               rel="noopener noreferrer"
               className="doc-btn"
