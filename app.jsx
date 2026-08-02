@@ -258,6 +258,19 @@ function Skills(){
 function Projects(){
   const projects = [
     {
+      file: 'Press Club.jsx',
+      name: 'Press-Club',
+      sub: 'MERN Media club Platform',
+      points: [
+        'Built a full stack Media Club platform with React.js, Node.js, Express.js, and MongoDB.',
+        'Implemented JWT authentication and REST APIs for secure, stateless sessions.',
+        'Developed the Press club,  Executtive Committe,Members,Awards and many More UI across devices.',
+      ],
+      tags: ['React.js','Node.js','Express.js','MongoDB','JWT'],
+      href: 'https://github.com/mshreyansh711-ui',
+      href2: '/#',
+    },
+    {
       file: 'ShopNow.jsx',
       name: 'Shop-Now',
       sub: 'MERN E-Commerce Platform',
