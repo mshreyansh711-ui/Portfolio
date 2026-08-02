@@ -345,7 +345,6 @@ function Education(){
             <span className="log-val">Master in Computer Science</span>
             <span className="log-note">— Accurate Institute of Management & Technology &amp; 2027</span>
           </div>
-          </div>
           <div className="log-line">
             <span className="arrow">&gt;</span>
             <span className="log-label">Cer</span>
