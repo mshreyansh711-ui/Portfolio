@@ -345,6 +345,20 @@ function Education(){
             <span className="log-val">Master in Computer Science</span>
             <span className="log-note">— Accurate Institute of Management & Technology &amp; 2027</span>
           </div>
+          </div>
+          <div className="log-line">
+            <span className="arrow">&gt;</span>
+            <span className="log-label">Cer</span>
+            <span className="log-val">Hackovation</span>
+            <a
+              href="/hackovation.pdf"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="doc-btn"
+            >
+              View Certificate
+            </a>
+          </div>
           <div className="log-line">
             <span className="arrow">&gt;</span>
             <span className="log-label">Certification</span>
@@ -384,6 +398,7 @@ function Education(){
               View Certificate
             </a>
           </div>
+          
         </div>
       </div>
     </section>
